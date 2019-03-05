@@ -1,0 +1,1 @@
+/wiki/Java_Programming/Reflection/Accessing_Private_Features_with_Reflection
